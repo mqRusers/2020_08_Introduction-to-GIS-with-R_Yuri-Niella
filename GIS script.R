@@ -1,9 +1,9 @@
 #===========================================#
-#	 Introduction to GIS with R              	#
-#								                       			#
-# Yuri Niella (yuri.niella@hdr.mq.edu.au) 	#
-# Department of Biological Sciences       	#
-# Macquarie University 					  	        #
+#	 Introduction to GIS with R	    #
+#				            #
+# Yuri Niella (yuri.niella@hdr.mq.edu.au)   #
+# Department of Biological Sciences         #
+# Macquarie University 		  	    #
 #===========================================#
 
 # Installing packages:
